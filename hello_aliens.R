@@ -1,0 +1,1 @@
+cat("The Earth we are currently living on is a huge rocky planet with an iron core. It has water covering most of its surface and has an atmosphere consisting mostly of oxygen and nitrogen.\nWe have long wondered whether human is the only sentient intelligent species in the universe.\nWhat is the life like on your world? Could you please briefly introduce your world to us?")
